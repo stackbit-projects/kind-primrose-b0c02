@@ -11,7 +11,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 date: 202021-03-12
 thumb_img_path: images/7.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: 'a '
 content_img_path: images/10.jpg
 seo:
   title: Fox Village In Japan
